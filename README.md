@@ -23,3 +23,16 @@ n : Number of API calls to do. (Maximum allowed is 300)
 st_ex : List of stock symbols 
 ### Output  
 This will check through all the conditions mentioned and buy/sell stocks alternatively for the list of stock symbols.
+
+# Library
+## The libraries used for the function were 
+- library(dplyr)
+- library(rjson)
+- library(jsonlite)
+- library(RCurl)
+- library(lubridate)
+
+# Functions
+## The functions used for the stock fantasy rules implementation :
+- Nested if-else
+- While statement 
