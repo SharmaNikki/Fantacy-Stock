@@ -36,3 +36,7 @@ This will check through all the conditions mentioned and buy/sell stocks alterna
 ## The functions used for the stock fantasy rules implementation :
 - Nested if-else
 - While statement 
+
+# Decision Stock :Script
+ The script is based on moving averages which helps to make decision to buy or sell stock based on the moving averages.
+
