@@ -2,7 +2,7 @@
 - AlphVantage API was used for the stock market competition with the below mentioned rules 
 - Alpha Vantage Inc. is a leading provider of free APIs for realtime and historical data on stocks, forex (FX), and digital/crypto       currencies.
 
-## Alpha Vantage Documentation: https://www.alphavantage.co/documentation/ (Links to an external site.)
+## Alpha Vantage Documentation: https://www.alphavantage.co/documentation/ 
 
 
 # Rules:
