@@ -40,3 +40,5 @@ This will check through all the conditions mentioned and buy/sell stocks alterna
 # Decision Stock :Script
  The script is based on moving averages which helps to make decision to buy or sell stock based on the moving averages.
 
+<a href="https://ibb.co/31bqtbb"><img src="https://i.ibb.co/5T3yq33/Imag2.png" alt="Imag2" border="0"></a>
+<a href="https://ibb.co/K06t5w7"><img src="https://i.ibb.co/Gx7ZdTk/Image1.png" alt="Image1" border="0"></a>
